@@ -1,0 +1,20 @@
+{
+  "source_project_sha256": "69b3947fee1e04f9e7c034d839581f0e099457dff1d76063fc26c3cf81e6dbba",
+  "original_project_unchanged": true,
+  "copied_files": 36,
+  "copied_bytes": 138990239,
+  "removed_layers": [],
+  "not_copied": [
+    ".DS_Store",
+    "02_Winnice_Analizy_na_NMT_Grupowanie_Operatory_sasiedztwa_PSIP_IGP_2025.pdf",
+    "03_Dostepnosc_MPK_Operatory_odleglosci_PSIP_IGP_2025.pdf",
+    "Przykladowy_wynik/winnice_CLC_bez_OPN.tif",
+    "maska_odl.tif",
+    "przydatne_opn.tif",
+    "stat_eksp_grupy.gpkg",
+    "vineyards.pdf",
+    "vineyards2.pdf",
+    "vineyards_temp.qpt"
+  ],
+  "note": "Unreferenced files, duplicate exports and course instructions remain untouched in the original folder. No numerical analysis was rerun."
+}

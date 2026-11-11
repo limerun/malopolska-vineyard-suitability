@@ -1,0 +1,218 @@
+{
+  "name": "malopolska-vineyard-suitability",
+  "opened": true,
+  "tested_from_different_directory": true,
+  "local_layers": [
+    {
+      "name": "CLC_dol_pradn_10m",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "OPN_dol_pradn_10m",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "clc_przydatne",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "eksp_S",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "ekspozycja",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "filtracja_przydatne_dla_win",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "grupy",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "grupy_bez_tla",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "nach_eksp",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "nach_od5_do20",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "nachylenie kopia",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "nachylenie",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "najbardziej_s",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "nmt_dol_pradn_10m kopia",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "nmt_dol_pradn_10m",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "opn_przydatne",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "przydatne_dla_winnic",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "stat_eksp_wek",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "stat_eksp_wek copy",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "stat_najbardziej_s_grupy",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_wys_grupy",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "v2_przydatne_dla_winnic",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "v2_stat_wys_grupy",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "wek_grupy_beztla \u2014 warstwa_spoligonizowana",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "wiecej_10ha",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    }
+  ],
+  "external_layers": [
+    {
+      "name": "OpenStreetMap",
+      "valid": true,
+      "provider": "wms"
+    }
+  ],
+  "layouts": [
+    "vineyards"
+  ],
+  "map_export_success": true
+}
